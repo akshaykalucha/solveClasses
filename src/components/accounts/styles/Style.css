@@ -1,0 +1,63 @@
+*{ margin: 0px; padding: 0px; box-sizing: border-box; }
+::-webkit-scrollbar {
+    width: 0px;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
+
+html, body{ font-size: 14px; font-family: Segoe UI, Regular; background: #F0F0F0 0% 0% no-repeat padding-box;; }
+
+.container-fluid { top: 0px; left: 0px; width: 1920px; height: 93px; background: rgba(255, 255, 255, 1) 0% 0% no-repeat padding-box; box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16); opacity: 1; }
+
+.navbar-brand {top: 6px; left: 31px; width: 92px; height: 84px; background: transparent 0% 0% no-repeat padding-box; opacity: 1; }
+
+ .column-left{top: 139px; border-radius: 10px; left: 39px; width: 234px; height: 497px; background: #414141 0% 0% no-repeat padding-box; opacity: 1; margin-top: -15px; position: absolute; margin-left: -24px;} 
+
+.classes{top: 179px; left: 39px; height: 60px; background: #FFFFFF 0% 0% no-repeat padding-box; border-radius: 43px; opacity: 1;}
+
+.classes1{  width: 112px; background: #FFFFFF 0% 0% no-repeat padding-box; border-radius: 0px 50px 0px 0px; opacity: 1; position: absolute;}
+
+.classes1 a{margin-left: 37px; }
+.classes1 p{font-size: 13px; margin-left: 8px;}
+
+.quiz_maker{margin-top: 46px; margin-left: -26px; width: 234px; height: 60px;  border-top-left-radius: 43px; border-bottom-left-radius: 43px; opacity: 1;}
+
+.archieved{margin-top: 42px; margin-left: -1px; width: 234px; height: 60px; border-top-left-radius: 43px; border-bottom-left-radius: 43px; opacity: 1;}
+
+.column-center{margin-top: -6px; width: 666px; height: 785px; background: #CFCFCF 0% 0% no-repeat padding-box; opacity: 1; position: relative; overflow-y: visible;}
+
+.boxes{margin: auto; max-width: 83.33%; height: 18rem; display: flex; justify-content: center; align-items:center; background-color: #FF9191; border-radius: 24px;}
+ 
+/* .physics{z-index: 999; margin-top: -3px; margin-left: 37px; width: 528px; height: 211px; position: relative; background: #FF9191 0% 0% no-repeat padding-box; border-radius: 24px; opacity: 1;}
+
+.maths{z-index: 999; margin-top: -10px; margin-left: 37px; width: 528px; height: 211px; position: absolute; background: #FFA287 0% 0% no-repeat padding-box; border-radius: 24px; opacity: 1;}
+
+.thinking{z-index: 999; margin-top: 190px; margin-left: 37px; width: 528px; height: 211px; position: absolute; background: #AFAFAF 0% 0% no-repeat padding-box; border-radius: 24px; opacity: 1;} */
+
+.notice-board{margin-top: -766px; margin-left: 900px; width: 280px; height: 70px; background: #FFFFFF 0% 0% no-repeat padding-box; border-top-left-radius: 21.5px; border-top-right-radius: 21.5px; position: absolute; opacity: 1;}
+
+.green-board{margin-top: -720px; margin-left: 900px; width: 280px; height: 450px; background: #008B5E 0% 0% no-repeat padding-box; opacity: 1;}
+
+.subject{margin-top: 2px; margin-left: 23px; width: 229px; height: 38px; background: #DDFF01 0% 0% no-repeat padding-box; border-top-left-radius: 8px; border-top-right-radius: 8px;}
+
+.notice{margin-top: 0px; margin-left: 23px; width: 229px; height: 130px; background: #FFFFFF 0% 0% no-repeat padding-box; }
+
+.dropdown{width: 110px; height: 139px; margin-left: 443px; position: absolute;  background-color: #FFFFFF; box-shadow: 0px 2px 6px #00000029; border-radius: 9px; opacity: 1;}
+
+.dropdown p{height: 19px; margin-top: 10px; margin-left: 1px; text-align: center; border-bottom: 0.2px solid grey;}
+
+
+
+
+
+
+
+
+
+
+.sidebar1{
+    padding: 10px 10px 10px 10px;
+    font-size: 18px;
+    background-color: white !important;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
